@@ -23,4 +23,6 @@ DB=DA*0.8
 ![对比度减弱](https://user-images.githubusercontent.com/98206033/227698805-c4c79a4a-d6b6-4ccf-af96-fa673bdb35df.png)  
 五、反色变换  
 又称为求补变换，对原图像像素值进行反转，白色变黑色，黑色变白色的过程  
-DB=255-DA  ![反色变换](https://user-images.githubusercontent.com/98206033/227699131-5b1e230f-ea0e-49d6-a026-eadaa60641d8.png)
+DB=255-DA  ![反色变换](https://user-images.githubusercontent.com/98206033/227699131-5b1e230f-ea0e-49d6-a026-eadaa60641d8.png)  
+医学上的应用，对CT图像反色变换更方便医生查看图像，如图是对乳腺癌病灶的反色变换，黑色更突出病灶！
+![乳腺癌病灶](https://user-images.githubusercontent.com/98206033/227699296-a261fb1c-bbf2-4927-b86c-f90125e308cd.png)
