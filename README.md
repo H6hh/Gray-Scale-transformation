@@ -11,3 +11,7 @@ a=-1，b=255时，原始图像灰度值反转（黑变白，白变黑）；
 a＞1时，对比度增强；
 0＜a＜1时，对比度减弱；
 a＜0时，图像求补，暗区变量，亮区变暗。
+的
+二、灰度值上移
+通过上移改变，使图像变白，变得更白![duibi1](https://user-images.githubusercontent.com/98206033/227698286-da226d65-6186-4ecb-81dd-bd70a4f6a267.png)
+![更白了](https://user-images.githubusercontent.com/98206033/227698294-aa7e0f20-5429-45be-9dd6-bb466f2bd106.png)
