@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-# By：Eastmount
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
