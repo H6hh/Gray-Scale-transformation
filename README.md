@@ -17,4 +17,7 @@ DB=DA+50，DB=DA+100
 通过上移改变，使图像变白，变得更白![duibi1](https://user-images.githubusercontent.com/98206033/227698286-da226d65-6186-4ecb-81dd-bd70a4f6a267.png)
 ![更白了](https://user-images.githubusercontent.com/98206033/227698294-aa7e0f20-5429-45be-9dd6-bb466f2bd106.png)  
 三、对比度增强变换  
-DB=DA*1.5  ![对比度增强](https://user-images.githubusercontent.com/98206033/227698669-6a61228d-036b-4dcb-a131-39f7c7fb367f.png)
+DB=DA*1.5  ![对比度增强](https://user-images.githubusercontent.com/98206033/227698669-6a61228d-036b-4dcb-a131-39f7c7fb367f.png)  
+四、对比度减弱变换  
+DB=DA*0.8  
+![对比度减弱](https://user-images.githubusercontent.com/98206033/227698805-c4c79a4a-d6b6-4ccf-af96-fa673bdb35df.png)
