@@ -20,4 +20,7 @@ DB=DA+50，DB=DA+100
 DB=DA*1.5  ![对比度增强](https://user-images.githubusercontent.com/98206033/227698669-6a61228d-036b-4dcb-a131-39f7c7fb367f.png)  
 四、对比度减弱变换  
 DB=DA*0.8  
-![对比度减弱](https://user-images.githubusercontent.com/98206033/227698805-c4c79a4a-d6b6-4ccf-af96-fa673bdb35df.png)
+![对比度减弱](https://user-images.githubusercontent.com/98206033/227698805-c4c79a4a-d6b6-4ccf-af96-fa673bdb35df.png)  
+五、反色变换  
+又称为求补变换，对原图像像素值进行反转，白色变黑色，黑色变白色的过程  
+DB=255-DA  ![反色变换](https://user-images.githubusercontent.com/98206033/227699131-5b1e230f-ea0e-49d6-a026-eadaa60641d8.png)
